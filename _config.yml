@@ -58,6 +58,10 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
 
 # Permalink
 permalink: "blog/:title"
