@@ -34,8 +34,8 @@ behance_username: /
 dribbble_username: /
 spotify_username: /
 
-# Google Analytics
-google-analytics: UA-163806439-1
+# Google Analytics 4
+google-analytics: G-2ETLSTVHMV
 
 # Disqus
 disqus-shortname: epsilondelta
